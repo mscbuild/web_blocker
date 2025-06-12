@@ -4,7 +4,7 @@
 
 Blocks specified websites during working hours by editing the system's  `hosts` file.
 
-№ 📁 Files and Structure
+# 📁 Files and Structure
 
 You only need one main Python file:
 
