@@ -129,7 +129,7 @@ Once PyInstaller finishes, you should see a .app file in the `dist directoryWebs
 
 - If yo
 
-- Creat (if you
+- Creat (if you)
 
 - Open Keychain A andDevelo certi
 
@@ -168,6 +168,9 @@ Now you have a standalone macO that runs yo
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Warning: Site blockers may conflict with other network and browser settings. Please note potential issues and possible alternative solutions.
 
 
 # 📜 License
