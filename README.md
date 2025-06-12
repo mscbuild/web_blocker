@@ -157,6 +157,8 @@ This will generate a `.dmg` file, w
 
 Now you have a standalone macO that runs yo
 
+# Notifications
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
