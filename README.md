@@ -106,8 +106,7 @@ pip install pyinstaller
   ~~~bash
   pyinstaller --onefile --windowed website_blocker_gui.py
   ~~~
-  `--onefile`: Pa
-
+`--onefile`: Pa
 `--windowed`: Preve
 
 This will generate a `dist` folder cwebsite_blocker_.
