@@ -112,7 +112,7 @@ pip install pyinstaller
 
 This will generate a `dist` folder cwebsite_blocker_.
 
- ***Ste***
+ ***Step 3:***
  
 Once PyInstaller finishes, you should see a .app file in the `dist directoryWebsite GUI jus
 
