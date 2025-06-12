@@ -157,6 +157,7 @@ This will generate a `.dmg` file, w
 
 Now you have a standalone macO that runs yo
 
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -165,6 +166,9 @@ Now you have a standalone macO that runs yo
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
+
+
+@mscbuild :+1: This PR looks great - it's ready to merge! :shipit:
 
 # 📜 License
 
