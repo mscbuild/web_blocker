@@ -168,8 +168,6 @@ Now you have a standalone macO that runs yo
 > Key information users need to know to achieve their goal.
 
 
-@mscbuild :+1: This PR looks great - it's ready to merge! :shipit:
-
 # 📜 License
 
 MIT License © 2025 
@@ -179,4 +177,4 @@ MIT License © 2025
 
 
 
-Unblocks them after working hours.
+ 
