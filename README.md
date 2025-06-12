@@ -104,9 +104,10 @@ pip install pyinstaller
 - Run the following command to create a standalone app (this will generate a `.app` fi)
 
   ~~~bash
-  pyinstaller --onefile --windowed website_blocker_gui.py
+ pyinstaller --onefile --windowed website_blocker_gui.py
   ~~~
 `--onefile`: Pa
+
 `--windowed`: Preve
 
 This will generate a `dist` folder cwebsite_blocker_.
