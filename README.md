@@ -161,13 +161,13 @@ Now you have a standalone macO that runs yo
 
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> If you use an app-level blocker, make sure it is protected from abuse..
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Blocking websites may not always be effective, and users can bypass blocking. It is just one tool for increasing security and control.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> A real application would require more complex mechanisms for processing requests, filtering, storing a list of blocked sites, etc.
 
 > [!WARNING]
 > Warning: Site blockers may conflict with other network and browser settings. Please note potential issues and possible alternative solutions.
