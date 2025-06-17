@@ -1,7 +1,7 @@
 # 🛠️ Project: Python Website Blocker
    ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
- ![](https://img.shields.io/github/repo-size/mscbuild/e-learning)
+ ![](https://img.shields.io/github/repo-size/mscbuild/web_blocker)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 ![](https://img.shields.io/badge/code%20style-python-green)
 ![](https://img.shields.io/github/stars/mscbuild)
@@ -17,7 +17,7 @@ Blocks specified websites during working hours by editing the system's  `hosts` 
 
 You only need one main Python file:
 
-~~~bash
+~~~ruby
 website_blocker.py
 ~~~
 
@@ -43,7 +43,7 @@ website_blocker.py
 
  # 🧾 Sample Code
 
- ~~~bash
+ ~~~ruby
 website_blocker.py
 ~~~
 
@@ -83,7 +83,7 @@ website_blocker.py
 
 - Run the script:
 
-~~~bash
+~~~ruby
 python website_blocker_gui.py
 ~~~
 - Add websites, and click Start Blocking.
@@ -103,7 +103,7 @@ Auto-start on system boot
 **Step 1: Install PyInstaller**
 
 First, you'll need to install PyInstaller to
-~~~bash
+~~~ruby
 pip install pyinstaller
 ~~~
 **Step 2: Create**
@@ -112,7 +112,7 @@ pip install pyinstaller
 
 - Run the following command to create a standalone app (this will generate a `.app` fi)
 
-  ~~~bash
+  ~~~ruby
   pyinstaller --onefile --windowed website_blocker_gui.py
   ~~~
 - `--onefile`: Pa
@@ -134,7 +134,7 @@ Once PyInstaller finishes, you should see a .app file in the `dist directoryWebs
 - Open Keychain A andDevelo certi
 
 - Use t
-  ~~~bash
+  ~~~ruby
   codesign --sign "Developer ID Application: Your Name (Team ID)" path/to/website_blocker_gui.app
   ~~~
 
@@ -143,7 +143,7 @@ Once PyInstaller finishes, you should see a .app file in the `dist directoryWebs
 If you want to create a downloadable disk image for distribution, you can package the `.app` file `.dmg` file for
 
 - Install `create-dmg`:
-~~~bash
+~~~ruby
 npm install -g create-dmg
 ~~~
 - Run th
